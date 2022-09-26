@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/fondos.css">
+    <title>Razas de gatos</title>
+</head>
+<body>
+    <header>
+        <h1>Razas de los gatos</h1>
+    </header>
+        <div class="wrapper">
+            <div class="Gato">
+                <a href="" title="">
+                <img src="img/ragdoll.jpg" title="gato ragdoll"  class="foto">
+                </a>
+            </div>
+        <div class="Gato">
+                <a href=""  title="">
+                <img src="img/ruso.jpg" title="gato ruso"  class="foto">
+                </a>
+        </div>
+    
+        <div class="Gato">
+            <a href="" title="">
+            <img src="img/siames.jpg" title="gato siames" class="foto">
+            </a>
+        </div>
+
+        <div class="Gato">
+            <a href="" title="">
+            <img src="img/savannah.jpg" title="gato savannah" class="foto">
+            </a>
+        </div> 
+        
+        <div class="Gato">
+            <a href="" title="">
+            <img src="img/americano.jpg" title="gato americano" class="foto">
+            </a>
+        </div>
+
+        <div class="Gato">
+            <a href="" title="">
+            <img src="img/abisnio.jpg" title="gato abisnio" class="foto">
+            </a>
+        </div>
+        <div class="Gato">
+            <a href="" title="">
+            <img src="img/balines.jpg" title="gato balines" class="foto">
+            </a>
+        </div>
+        <div class="Gato">
+            <a href="" title="">
+            <img src="img/bengala.jpg" title="gato bengala" class="foto">
+            </a>
+        </div>
+        <div class="Gato">
+            <a href="" title="">
+            <img src="img/esfinge.jpg" title="gato esfinge"  class="foto">
+            </a>
+        </div>
+        <div class="Gato">
+            <a href="" title="">
+            <img src="img/persa.jpg" title="gato persa" class="foto">
+            </a>
+        </div>
+        </div>
+    <footer>
+        <p>&copy; Copyright Ari Francisco Cruz Vega 2022</p>
+    </footer>
+
+
+</body>
+</html>
