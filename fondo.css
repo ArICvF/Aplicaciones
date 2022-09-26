@@ -1,0 +1,47 @@
+html, body{
+    margin: 0px;
+    }
+    header {
+    background-color: #DB7819;
+    color: #fff;
+    width: 98%;
+    height: 200px;
+    margin: 1%;
+    }
+    header h1{
+        text-align: center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sansserif;
+padding: 60px;
+font-size: 50px;
+}
+.wrapper {
+background-color: #005C8F;
+width: 98%;
+height: 400px;
+margin: 1%;
+}
+.wrapper .Gato{
+width: 18.9%;
+height: 180px;
+background-color: #FF9736;
+display: inline-block;
+margin: 0.4%;
+}
+footer {
+background-color: #FFC679;
+color: rgb(0, 0, 0);
+width: 98%;
+height: 60px;
+margin: 1%;
+}
+footer p{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+padding: 20px;
+}
+.foto{
+    height: 180px;
+    width: 18.5vw;
+    margin: 1% 0 1% 1%;
+    }
+    
